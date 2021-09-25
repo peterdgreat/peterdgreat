@@ -1,3 +1,5 @@
+
+![screenshot](banner.png) 
 ## 👨🏻‍💻 About Me
 
 - I am Currently a Microverse student.
