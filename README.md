@@ -14,7 +14,7 @@
 
 ## 📊 Some statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdgreat)](https://githttps://linkedin.com/in/ajayi-peter-4391ab1b5hub.com/anuraghazra/github-readme-stats)
