@@ -7,7 +7,7 @@
 - Watching movies, talent shows are my hobby
 
 ## 🛠 Tech Stack
-
+- React
 - JavaScript (ES6)
 -  Bootstrap 
 - VSCode | Git
