@@ -11,6 +11,7 @@
 - JavaScript (ES6)
 -  Bootstrap 
 - VSCode | Git
+- Ruby on Rails 
 
 ## 📊 Some statistics
 
