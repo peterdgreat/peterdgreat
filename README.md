@@ -2,8 +2,8 @@
 ![screenshot](banner.png) 
 ## 👨🏻‍💻 About Me
 
-- I am Currently a Microverse student.
-- Looking for new opportunities as a Full Stack Developer.
+- I am a Microverse Alumni.
+- Looking for new opportunities as a front-end Developer.
 - Watching movies, talent shows are my hobby
 
 ## 🛠 Tech Stack
@@ -17,7 +17,7 @@
 [![Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdgreat)](https://githttps://linkedin.com/in/ajayi-peter-4391ab1b5hub.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdgreat)](https://githttps://linkedin.com/in/ajayipeter-4391ab1b5hub.com/anuraghazra/github-readme-stats)
 
 
 
