@@ -2,8 +2,9 @@
 ![screenshot](banner.png) 
 ## 👨🏻‍💻 About Me
 
-- I am a Microverse Alumni.
-- Looking for new opportunities as a front-end Developer.
+- I am a that  full-stack devloper that enjoys bringing product from concept to launch.
+- Peer programming, collaborations are my magic charms.
+- Actively looking for job
 - Watching movies, talent shows are my hobby
 
 ## 🛠 Tech Stack
