@@ -2,9 +2,9 @@
 ![screenshot](banner.png) 
 ## 👨🏻‍💻 About Me
 
-- I am a that  full-stack devloper that enjoys bringing product from concept to launch.
+- I am that full-stack devloper that enjoys bringing product from concept to launch.
 - Peer programming, collaborations are my magic charms.
-- Actively looking for job
+- Actively looking for a job
 - Watching movies, talent shows are my hobby
 
 ## 🛠 Tech Stack
