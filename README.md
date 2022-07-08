@@ -13,6 +13,7 @@
 -  Bootstrap 
 - VSCode | Git
 - Ruby on Rails 
+- Angular
 
 ## 📊 Some statistics
 
