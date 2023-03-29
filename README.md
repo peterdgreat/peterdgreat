@@ -2,9 +2,7 @@
 ![screenshot](banner.png) 
 ## 👨🏻‍💻 About Me
 
-- I am that full-stack devloper that enjoys bringing product from concept to launch.
-- Peer programming, collaborations are my magic charms.
-- Watching movies, talent shows are my hobby
+As a full-stack developer, I derive great satisfaction from taking a product from concept to launch. Collaborative programming and teamwork are the magical elements that allow me to excel in my craft. Outside of work, I enjoy indulging in hobbies such as playing video games , watching movies and talent shows.
 
 ## 🛠 Tech Stack
 - React
