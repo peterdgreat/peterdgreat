@@ -13,8 +13,8 @@ As a full-stack developer, I derive great satisfaction from taking a product fro
 
 ## 📊 Some statistics
 
-
-![[Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&theme=transparent)
+[![Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![[Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&theme=transparent)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdgreat)](https://githttps://linkedin.com/in/ajayipeter-4391ab1b5hub.com/anuraghazra/github-readme-stats)
