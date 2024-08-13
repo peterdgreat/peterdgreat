@@ -1,5 +1,4 @@
 
-![screenshot](banner.png) 
 ## 👨🏻‍💻 About Me
 
 As a full-stack developer, I derive great satisfaction from taking a product from concept to launch. Collaborative programming and teamwork are the magical elements that allow me to excel in my craft. Outside of work, I enjoy indulging in hobbies such as playing video games , watching movies and talent shows.
