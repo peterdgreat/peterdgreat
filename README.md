@@ -4,17 +4,13 @@
 As a full-stack developer, I derive great satisfaction from taking a product from concept to launch. Collaborative programming and teamwork are the magical elements that allow me to excel in my craft. Outside of work, I enjoy indulging in hobbies such as playing video games , watching movies and talent shows.
 
 ## 🛠 Tech Stack
+- Ruby on Rails 
 - React
-- JavaScript (ES6)
+- Angular
 -  Bootstrap 
 - VSCode | Git
-- Ruby on Rails 
-- Angular
 
-## 📊 Some statistics
 
-[![Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-![[Ajayi Peter](https://github-readme-stats.vercel.app/api?username=peterdgreat&show_icons=true&theme=transparent)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdgreat)](https://githttps://linkedin.com/in/ajayipeter-4391ab1b5hub.com/anuraghazra/github-readme-stats)
